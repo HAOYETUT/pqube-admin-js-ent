@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "baseUrl": "./",
+    "lib": ["esnext", "dom"],
+    "paths": {
+      "@/*": ["src/*"],
+      "pq-admin-ent/es/*": ["components/*"],
+      "pq-admin-ent/es": ["components/index"],
+      "pq-admin-ent": ["components/index"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
