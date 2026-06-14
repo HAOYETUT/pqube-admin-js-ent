@@ -8,9 +8,25 @@
 3. 企业系统开发、线上部署、二次商用分发必须购买授权，无授权使用属于侵权。
 
 ## 在线预览
-| 首页 | 工作台 | 分析页面 ｜ 业务组件 ｜
-|------|---------|---------|---------|
-| <img src="./docs/login.png" width="280"> | <img src="./docs/workplace.png" width="280"> | <img src="./docs/analysis.png" width="280"> |<img src="./docs/extension.png" width="280"> |
+## 在线预览
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <div>
+    <img src="./docs/login.png" width="300" alt="登录页">
+    <p align="center">登录首页</p>
+  </div>
+  <div>
+    <img src="./docs/workplace.png" width="300" alt="工作台">
+    <p align="center">工作台页面</p>
+  </div>
+  <div>
+    <img src="./docs/analysis.png" width="300" alt="数据分析">
+    <p align="center">数据统计分析</p>
+  </div>
+  <div>
+    <img src="./docs/extension.png" width="300" alt="业务组件">
+    <p align="center">通用业务组件</p>
+  </div>
+</div>
 
 ## 业务组件列表
 | 业务组件 | 
